@@ -1,0 +1,2 @@
+mingw compiler/ TDM GCC compiler (for windows OS)
+gnu/gcc compiler (for linux OS / Mac OS)
